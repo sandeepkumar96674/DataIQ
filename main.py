@@ -23,7 +23,7 @@ if(file!=None):
     st.dataframe(data)
 
     st.subheader(':red[Basic information about the Dataset]')
-    tab1,tab2,tab3,tab4,tab5=st.tabs(['Summary','Toa and Bottom Rows','Data Types','Columns','Null Values'])
+    tab1,tab2,tab3,tab4,tab5=st.tabs(['Summary','Top and Bottom Rows','Data Types','Columns','Null Values'])
 
     with tab1:
         st.write(f'There are {data.shape[0]} Rows and {data.shape[1]} Columns in the Dataset')
