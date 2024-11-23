@@ -22,7 +22,7 @@ if(file!=None):
     st.info("The file has been Uploaded Successfully",icon='✔️')
     st.dataframe(data)
 
-    st.subheader(':rainbow[Basic information about the Dataset]')
+    st.subheader(':red[Basic information about the Dataset]')
     tab1,tab2,tab3,tab4,tab5=st.tabs(['Summary','Toa and Bottom Rows','Data Types','Columns','Null Values'])
 
     with tab1:
@@ -51,7 +51,7 @@ if(file!=None):
         st.subheader('Null Values in Columns')
         st.dataframe(data.isnull().sum())
 
-    st.subheader(':rainbow[Column Values to count]')
+    st.subheader(':red[Column Values to count]')
     with st.expander('Value Count'):
 
         col1,col2=st.columns(2)
