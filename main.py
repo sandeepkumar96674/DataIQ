@@ -23,7 +23,7 @@ if(file!=None):
     st.dataframe(data)
 
     st.subheader(':rainbow[Basic information about the Dataset]')
-    tab1,tab2,tab3,tab4=st.tabs(['Summary','Toa and Bottom Rows','Data Types','Columns'])
+    tab1,tab2,tab3,tab4,tab5=st.tabs(['Summary','Toa and Bottom Rows','Data Types','Columns','Null Values'])
 
     with tab1:
         st.write(f'There are {data.shape[0]} Rows and {data.shape[1]} Columns in the Dataset')
@@ -46,6 +46,10 @@ if(file!=None):
     with tab4:
         st.subheader(":grey[Columns Name]")
         st.write(list(data.columns))
+
+    with tab5:
+        st.subheader('Null Values in Columns')
+        st.dataframe(data.isnull().sum())
 
     st.subheader(':rainbow[Column Values to count]')
     with st.expander('Value Count'):
