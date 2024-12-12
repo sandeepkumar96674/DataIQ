@@ -16,8 +16,15 @@
   -   Columns Values Count 
   -   Perform Groupby on Data ( Helps you to Summarize your data by Specific Groups and Categories )
   -   Data Visualization for better Understanding
+ 
+    
+![image](https://github.com/user-attachments/assets/e0b92eb8-3826-4374-b172-f8ab32a77af9)
 
-    ![image](https://github.com/user-attachments/assets/1b7b0b1d-7ee8-4672-b11a-ff0f1f222a82)
+![image](https://github.com/user-attachments/assets/d733e526-e90e-46a8-868b-0b91f16f2c3f)
+
+![image](https://github.com/user-attachments/assets/e67674b5-0821-4614-8a32-0b88cc11aba8)
+
+   ![image](https://github.com/user-attachments/assets/1b7b0b1d-7ee8-4672-b11a-ff0f1f222a82)
   ![image](https://github.com/user-attachments/assets/504e590f-25ee-45b1-9d3d-fcdaed8524b9)
   ![image](https://github.com/user-attachments/assets/586171ba-98d6-4075-922a-18a6becd4022)
 
