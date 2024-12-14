@@ -17,6 +17,17 @@
   -   Perform Groupby on Data ( Helps you to Summarize your data by Specific Groups and Categories )
   -   Data Visualization for better Understanding
  
+### The Summary of Dataset:
+- Value Count in Each Columns
+- Mean of Each Numerical Column
+- Min value of each Column
+- 25% of the Column
+- 50% of the Column
+- 75% of the Column
+- Max Value of Each Numerical Column
+- Standard Deviation of the Column Values
+
+### Top N and Bottom Rows 
     
 ![image](https://github.com/user-attachments/assets/e0b92eb8-3826-4374-b172-f8ab32a77af9)
 
