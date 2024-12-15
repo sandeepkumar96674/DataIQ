@@ -28,6 +28,8 @@
 - Standard Deviation of the Column Values
 
 ### Top N and Bottom Rows 
+### Number of Null values present in each columns 
+### Names of Columns present in the Dataset
     
 ![image](https://github.com/user-attachments/assets/e0b92eb8-3826-4374-b172-f8ab32a77af9)
 
