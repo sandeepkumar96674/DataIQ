@@ -1,4 +1,4 @@
-# DataIQ : Explore about your Data
+# DataIQ : Explore your Data
 
 ![image](https://github.com/user-attachments/assets/327e4b8f-2cc8-403b-a5d3-3e4ba675034b)
 
